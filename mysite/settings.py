@@ -25,7 +25,7 @@ SECRET_KEY = '-^+c!+3dg!t$@5isjyd%jij5mopb*c**(mrf2oqe5t^nini6vx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [TakoJ.pythonanywhere.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
